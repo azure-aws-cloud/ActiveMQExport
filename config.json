@@ -1,0 +1,9 @@
+{
+  "host": "localhost",
+  "port": 61613,
+  "username": "admin",
+  "password": "admin",
+  "queue_name": "/queue/my_queue",
+  "output_excel": "activemq_messages.xlsx",
+  "read_timeout": 10
+}
